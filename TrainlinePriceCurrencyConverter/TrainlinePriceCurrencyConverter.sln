@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainlinePriceCurrencyConverter.Functions", "TrainlinePriceCurrencyConverter.Functions\TrainlinePriceCurrencyConverter.Functions.csproj", "{594BC538-2553-47CC-97AB-81D597749ED6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainlinePriceCurrencyConverter.Core", "TrainlinePriceCurrencyConverter.Core\TrainlinePriceCurrencyConverter.Core.csproj", "{9A5C76BD-E5D0-49FB-A01D-CF095A83DFF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainlinePriceCurrencyConverter.Core.Tests", "TrainlinePriceCurrencyConverter.Core.Tests\TrainlinePriceCurrencyConverter.Core.Tests.csproj", "{25D89164-152E-46B3-9467-1078A6BDC9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainlinePriceCurrencyConverter.Functions.Tests", "TrainlinePriceCurrencyConverter.Functions.Tests\TrainlinePriceCurrencyConverter.Functions.Tests.csproj", "{ED7E2775-D52B-476B-B1FF-0AD5B90D0CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594BC538-2553-47CC-97AB-81D597749ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594BC538-2553-47CC-97AB-81D597749ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594BC538-2553-47CC-97AB-81D597749ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594BC538-2553-47CC-97AB-81D597749ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5C76BD-E5D0-49FB-A01D-CF095A83DFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5C76BD-E5D0-49FB-A01D-CF095A83DFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5C76BD-E5D0-49FB-A01D-CF095A83DFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5C76BD-E5D0-49FB-A01D-CF095A83DFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D89164-152E-46B3-9467-1078A6BDC9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D89164-152E-46B3-9467-1078A6BDC9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D89164-152E-46B3-9467-1078A6BDC9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D89164-152E-46B3-9467-1078A6BDC9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7E2775-D52B-476B-B1FF-0AD5B90D0CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7E2775-D52B-476B-B1FF-0AD5B90D0CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7E2775-D52B-476B-B1FF-0AD5B90D0CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7E2775-D52B-476B-B1FF-0AD5B90D0CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA71189-2DDC-4C1D-B398-BB49ADF17141}
+	EndGlobalSection
+EndGlobal
